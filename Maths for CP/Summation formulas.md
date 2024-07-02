@@ -2,7 +2,7 @@
 
 ## Sum of the first \( n \) natural numbers:
 
-![Sum of first n natural numbers](https://quicklatex.com/cache3/ql_bf7c1d1d84404f2f08ea3f10372aa6f5_l3.png)
+[![Sum of first n natural numbers](https://quicklatex.com/cache3/ql_bf7c1d1d84404f2f08ea3f10372aa6f5_l3.png)](https://quicklatex.com/cache3/52/ql_f7fcacfa29338ae3c336251dafdcca52_l3.png)
 
 ## Sum of the squares of the first \( n \) natural numbers:
 
