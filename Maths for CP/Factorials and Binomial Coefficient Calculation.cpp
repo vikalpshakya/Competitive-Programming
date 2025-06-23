@@ -27,7 +27,10 @@ void factorials() {
   */
 
   
-    inv_fact[MAX] = bin_pow(fact[MAX], MOD - 2, MOD); // Using Fermat's Little Theorem for modular inversion
+    // Using Fermat's Little Theorem for modular inversion
+    // Fermat theorem: inv(a) = a^(mod-2) % mod;
+    inv_fact[MAX] = bin_pow(fact[MAX], MOD - 2, MOD);
+    
     for (ll i = MAX - 1; i >= 0; i--) {
         inv_fact[i] = (inv_fact[i + 1] * (i + 1)) % MOD;
     }
